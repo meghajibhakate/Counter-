@@ -1,0 +1,43 @@
+
+body {
+    /* background-color: bisque; */
+    text-align: center;
+}
+.box{
+    display: inline-block;
+    background-color: bisque;
+    height: 315px;
+    padding: 60px;
+}
+h1 {
+    margin-top: 70px;
+    font-size: 50px;
+}
+button{
+    font-size: 35px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.button:hover {
+    background-color: rgb(121, 220, 184);
+    color: rgb(7, 7, 6);
+   
+}
+
+.reset {
+    margin-top: 30px;
+}
+.reset:hover{
+    /* background-color: rgb(39, 165, 119); */
+    background-color: rgb(121, 220, 184);
+    color: rgb(7, 7, 6);
+}
+.button2{
+    padding: 30px;
+    margin: 25px;
+}
+p{
+    font-size: 35px;
+}
+
